@@ -1,14 +1,23 @@
 body {
     font-family: Arial;
     padding: 20px;
-    background: #b1dcff;
+    background: #dae9f5;
+  }
+
+  ul {
+      list-style-type: none;
+      font-size: 20px;
   }
   
 .header {
     padding: 30px;
     font-size: 40px;
     text-align: center;
-    background: white;
+    background: #FAF9F6;
+  }
+
+  .abtme {
+      text-align: center;
   }
 
   .column {
@@ -17,7 +26,7 @@ body {
   }
 
   .card {
-    background-color: white;
+    background-color: #FAF9F6;
     padding: 20px;
     margin-top: 20px;
   }
@@ -28,9 +37,8 @@ body {
     margin-right: auto;
     width: 50%;
   }
-  
+
   .footer {
     position: absolute;
-    margin-left: auto;
-    margin-right: auto;
+   text-align: center;
   }
