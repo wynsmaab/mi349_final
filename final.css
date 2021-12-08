@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    background: #b1dcff;
+  }
+  
+.header {
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    background: white;
+  }
+
+  .column {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .card {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .footer {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+  }
